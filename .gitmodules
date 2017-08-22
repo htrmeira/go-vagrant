@@ -1,3 +1,4 @@
-[submodule "src/simple-conf"]
-	path = src/simple-conf
+[submodule "debian-go-dev/src/simple-conf"]
+	path = debian-go-dev/src/simple-conf
 	url = git@github.com:htrmeira/simple-conf.git
+	branch = master
